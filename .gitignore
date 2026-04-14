@@ -1,0 +1,12 @@
+# Veri klasörünü tamamen yoksay
+data/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Jupyter notebook geçici dosyaları
+.ipynb_checkpoints/
+
+# Modeller (Eğer çok büyüklerse, şimdilik hariç tutabiliriz)
+models/
