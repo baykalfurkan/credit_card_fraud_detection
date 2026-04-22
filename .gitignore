@@ -10,3 +10,9 @@ __pycache__/
 
 # Modeller (Eğer çok büyüklerse, şimdilik hariç tutabiliriz)
 models/
+
+
+*.csv
+*.pkl
+
+uygulanacaklar.ipynb
